@@ -12,3 +12,6 @@ Impact on completed labs:
 - No live model runs, Docker deployment or submitted-evidence edits are required for this merge.
 
 Validation results are recorded in the PR.
+
+Validation: 39 pytest tests passed using mock and a temporary database. One dependency deprecation warning.
+Git verification: submitted reports/evidence/course-work/golden have no changes relative to fork main. No live provider calls.
